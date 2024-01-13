@@ -1,6 +1,6 @@
 # Tic-Tac-Toe AI
 
-A simple implementation of Tic-Tac-Toe with an AI opponent using the Minimax algorithm.
+A simple implementation of Tic-Tac-Toe with an AI players using the Minimax algorithm.
 
 ## Installation
 
