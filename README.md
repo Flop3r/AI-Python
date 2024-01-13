@@ -15,7 +15,11 @@ git clone https://github.com/Flop3r/tic-tac-toe-ai.git
 Run the game:
 
 ```bash
+# For Windows
 python game.py
+
+# For macOS and Linux
+python3 game.py
 ```
 
 ## Project Structure
