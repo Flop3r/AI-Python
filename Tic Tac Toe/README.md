@@ -2,14 +2,6 @@
 
 A simple implementation of Tic-Tac-Toe with an AI players using the Minimax algorithm.
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Flop3r/tic-tac-toe-ai.git
-```
-
 ## Usage
 
 Run the game:
