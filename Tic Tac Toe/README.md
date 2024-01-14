@@ -20,8 +20,5 @@ python3 game.py
 - `agent.py`: Implements the AI agent using the Minimax algorithm.
 - `tic_tac_toe.py`: Main script to run the game.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Inspired by [Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://example.com](https://youtu.be/5NgNicANyqM?si=r5DMbJim6xvA7Wwe)https://youtu.be/5NgNicANyqM?si=r5DMbJim6xvA7Wwe)
